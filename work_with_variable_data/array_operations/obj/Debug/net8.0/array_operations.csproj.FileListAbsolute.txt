@@ -1,0 +1,15 @@
+/home/craig/Desktop/c_sharp_fcc/work_with_variable_data/array_operations/bin/Debug/net8.0/array_operations
+/home/craig/Desktop/c_sharp_fcc/work_with_variable_data/array_operations/bin/Debug/net8.0/array_operations.deps.json
+/home/craig/Desktop/c_sharp_fcc/work_with_variable_data/array_operations/bin/Debug/net8.0/array_operations.runtimeconfig.json
+/home/craig/Desktop/c_sharp_fcc/work_with_variable_data/array_operations/bin/Debug/net8.0/array_operations.dll
+/home/craig/Desktop/c_sharp_fcc/work_with_variable_data/array_operations/bin/Debug/net8.0/array_operations.pdb
+/home/craig/Desktop/c_sharp_fcc/work_with_variable_data/array_operations/obj/Debug/net8.0/array_operations.GeneratedMSBuildEditorConfig.editorconfig
+/home/craig/Desktop/c_sharp_fcc/work_with_variable_data/array_operations/obj/Debug/net8.0/array_operations.AssemblyInfoInputs.cache
+/home/craig/Desktop/c_sharp_fcc/work_with_variable_data/array_operations/obj/Debug/net8.0/array_operations.AssemblyInfo.cs
+/home/craig/Desktop/c_sharp_fcc/work_with_variable_data/array_operations/obj/Debug/net8.0/array_operations.csproj.CoreCompileInputs.cache
+/home/craig/Desktop/c_sharp_fcc/work_with_variable_data/array_operations/obj/Debug/net8.0/array_operations.sourcelink.json
+/home/craig/Desktop/c_sharp_fcc/work_with_variable_data/array_operations/obj/Debug/net8.0/array_operations.dll
+/home/craig/Desktop/c_sharp_fcc/work_with_variable_data/array_operations/obj/Debug/net8.0/refint/array_operations.dll
+/home/craig/Desktop/c_sharp_fcc/work_with_variable_data/array_operations/obj/Debug/net8.0/array_operations.pdb
+/home/craig/Desktop/c_sharp_fcc/work_with_variable_data/array_operations/obj/Debug/net8.0/array_operations.genruntimeconfig.cache
+/home/craig/Desktop/c_sharp_fcc/work_with_variable_data/array_operations/obj/Debug/net8.0/ref/array_operations.dll
