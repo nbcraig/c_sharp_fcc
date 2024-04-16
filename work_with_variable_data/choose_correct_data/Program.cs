@@ -48,5 +48,3 @@ ref_B[0] = 5;
 Console.WriteLine("--Reference Types--");
 Console.WriteLine($"ref_A[0]: {ref_A[0]}");
 Console.WriteLine($"ref_B[0]: {ref_B[0]}");
-
-

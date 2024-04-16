@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/craig/Desktop/c_sharp_fcc/work_with_variable_data/work_with_variable_data.csproj": {}
+    "/home/craig/Desktop/c_sharp_fcc/work_with_variable_data/choose_correct_data/choose_correct_data.csproj": {}
   },
   "projects": {
-    "/home/craig/Desktop/c_sharp_fcc/work_with_variable_data/work_with_variable_data.csproj": {
+    "/home/craig/Desktop/c_sharp_fcc/work_with_variable_data/choose_correct_data/choose_correct_data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/craig/Desktop/c_sharp_fcc/work_with_variable_data/work_with_variable_data.csproj",
-        "projectName": "work_with_variable_data",
-        "projectPath": "/home/craig/Desktop/c_sharp_fcc/work_with_variable_data/work_with_variable_data.csproj",
+        "projectUniqueName": "/home/craig/Desktop/c_sharp_fcc/work_with_variable_data/choose_correct_data/choose_correct_data.csproj",
+        "projectName": "choose_correct_data",
+        "projectPath": "/home/craig/Desktop/c_sharp_fcc/work_with_variable_data/choose_correct_data/choose_correct_data.csproj",
         "packagesPath": "/home/craig/.nuget/packages/",
-        "outputPath": "/home/craig/Desktop/c_sharp_fcc/work_with_variable_data/obj/",
+        "outputPath": "/home/craig/Desktop/c_sharp_fcc/work_with_variable_data/choose_correct_data/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/craig/.nuget/NuGet/NuGet.Config"
