@@ -150,3 +150,16 @@ Console.WriteLine(result);
 */
 
 // Exercise - Complete a challenge to parse a string of orders, sort the orders and tag possible errors
+
+string orderStream = "B123,C234,A345,C15,B177,G3003,C235,B179";
+
+string[] orderStreamArray = orderStream.Split(",");
+Array.Sort(orderStreamArray);
+
+foreach (string item in orderStreamArray)
+{
+    if (item.Length == 4)
+        Console.WriteLine(item);
+    else
+        Console.WriteLine($"{item} - Error");
+}
