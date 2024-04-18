@@ -1,5 +1,7 @@
-﻿// Exercise - Discover Sort() and Reverse()
-/*
+﻿// Comment and un-comment code sections to run
+
+// Exercise - Discover Sort() and Reverse()
+
 // Create an array of pallets, then sort them
 
 string[] pallets = { "B14", "A11", "B12", "A13" };
@@ -147,7 +149,7 @@ for (int i = 0; i < pangramWords.Length; i++)
 string result = String.Join(" ", pangramWordsReversed);
 
 Console.WriteLine(result);
-*/
+
 
 // Exercise - Complete a challenge to parse a string of orders, sort the orders and tag possible errors
 
