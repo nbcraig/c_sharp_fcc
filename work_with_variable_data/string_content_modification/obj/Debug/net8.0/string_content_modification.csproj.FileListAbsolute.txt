@@ -1,0 +1,15 @@
+/home/craig/Desktop/c_sharp_fcc/work_with_variable_data/string_content_modification/bin/Debug/net8.0/string_content_modification
+/home/craig/Desktop/c_sharp_fcc/work_with_variable_data/string_content_modification/bin/Debug/net8.0/string_content_modification.deps.json
+/home/craig/Desktop/c_sharp_fcc/work_with_variable_data/string_content_modification/bin/Debug/net8.0/string_content_modification.runtimeconfig.json
+/home/craig/Desktop/c_sharp_fcc/work_with_variable_data/string_content_modification/bin/Debug/net8.0/string_content_modification.dll
+/home/craig/Desktop/c_sharp_fcc/work_with_variable_data/string_content_modification/bin/Debug/net8.0/string_content_modification.pdb
+/home/craig/Desktop/c_sharp_fcc/work_with_variable_data/string_content_modification/obj/Debug/net8.0/string_content_modification.GeneratedMSBuildEditorConfig.editorconfig
+/home/craig/Desktop/c_sharp_fcc/work_with_variable_data/string_content_modification/obj/Debug/net8.0/string_content_modification.AssemblyInfoInputs.cache
+/home/craig/Desktop/c_sharp_fcc/work_with_variable_data/string_content_modification/obj/Debug/net8.0/string_content_modification.AssemblyInfo.cs
+/home/craig/Desktop/c_sharp_fcc/work_with_variable_data/string_content_modification/obj/Debug/net8.0/string_content_modification.csproj.CoreCompileInputs.cache
+/home/craig/Desktop/c_sharp_fcc/work_with_variable_data/string_content_modification/obj/Debug/net8.0/string_content_modification.sourcelink.json
+/home/craig/Desktop/c_sharp_fcc/work_with_variable_data/string_content_modification/obj/Debug/net8.0/string_content_modification.dll
+/home/craig/Desktop/c_sharp_fcc/work_with_variable_data/string_content_modification/obj/Debug/net8.0/refint/string_content_modification.dll
+/home/craig/Desktop/c_sharp_fcc/work_with_variable_data/string_content_modification/obj/Debug/net8.0/string_content_modification.pdb
+/home/craig/Desktop/c_sharp_fcc/work_with_variable_data/string_content_modification/obj/Debug/net8.0/string_content_modification.genruntimeconfig.cache
+/home/craig/Desktop/c_sharp_fcc/work_with_variable_data/string_content_modification/obj/Debug/net8.0/ref/string_content_modification.dll

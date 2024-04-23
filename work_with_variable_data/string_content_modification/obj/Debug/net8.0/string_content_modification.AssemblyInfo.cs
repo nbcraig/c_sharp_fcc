@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("string_content_modification")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c337301eca746a6d2aedb2703fd41fe88127a7a1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94c7590b9c2707edde495cfd95a93a959d048543")]
 [assembly: System.Reflection.AssemblyProductAttribute("string_content_modification")]
 [assembly: System.Reflection.AssemblyTitleAttribute("string_content_modification")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
