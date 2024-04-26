@@ -1,0 +1,15 @@
+/home/craig/Desktop/c_sharp_fcc/create_methods/methods_with_parameters/bin/Debug/net8.0/methods_with_parameters
+/home/craig/Desktop/c_sharp_fcc/create_methods/methods_with_parameters/bin/Debug/net8.0/methods_with_parameters.deps.json
+/home/craig/Desktop/c_sharp_fcc/create_methods/methods_with_parameters/bin/Debug/net8.0/methods_with_parameters.runtimeconfig.json
+/home/craig/Desktop/c_sharp_fcc/create_methods/methods_with_parameters/bin/Debug/net8.0/methods_with_parameters.dll
+/home/craig/Desktop/c_sharp_fcc/create_methods/methods_with_parameters/bin/Debug/net8.0/methods_with_parameters.pdb
+/home/craig/Desktop/c_sharp_fcc/create_methods/methods_with_parameters/obj/Debug/net8.0/methods_with_parameters.GeneratedMSBuildEditorConfig.editorconfig
+/home/craig/Desktop/c_sharp_fcc/create_methods/methods_with_parameters/obj/Debug/net8.0/methods_with_parameters.AssemblyInfoInputs.cache
+/home/craig/Desktop/c_sharp_fcc/create_methods/methods_with_parameters/obj/Debug/net8.0/methods_with_parameters.AssemblyInfo.cs
+/home/craig/Desktop/c_sharp_fcc/create_methods/methods_with_parameters/obj/Debug/net8.0/methods_with_parameters.csproj.CoreCompileInputs.cache
+/home/craig/Desktop/c_sharp_fcc/create_methods/methods_with_parameters/obj/Debug/net8.0/methods_with_parameters.sourcelink.json
+/home/craig/Desktop/c_sharp_fcc/create_methods/methods_with_parameters/obj/Debug/net8.0/methods_with_parameters.dll
+/home/craig/Desktop/c_sharp_fcc/create_methods/methods_with_parameters/obj/Debug/net8.0/refint/methods_with_parameters.dll
+/home/craig/Desktop/c_sharp_fcc/create_methods/methods_with_parameters/obj/Debug/net8.0/methods_with_parameters.pdb
+/home/craig/Desktop/c_sharp_fcc/create_methods/methods_with_parameters/obj/Debug/net8.0/methods_with_parameters.genruntimeconfig.cache
+/home/craig/Desktop/c_sharp_fcc/create_methods/methods_with_parameters/obj/Debug/net8.0/ref/methods_with_parameters.dll
