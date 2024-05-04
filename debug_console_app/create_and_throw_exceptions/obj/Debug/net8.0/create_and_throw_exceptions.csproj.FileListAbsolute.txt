@@ -1,0 +1,15 @@
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/create_and_throw_exceptions/bin/Debug/net8.0/create_and_throw_exceptions
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/create_and_throw_exceptions/bin/Debug/net8.0/create_and_throw_exceptions.deps.json
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/create_and_throw_exceptions/bin/Debug/net8.0/create_and_throw_exceptions.runtimeconfig.json
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/create_and_throw_exceptions/bin/Debug/net8.0/create_and_throw_exceptions.dll
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/create_and_throw_exceptions/bin/Debug/net8.0/create_and_throw_exceptions.pdb
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/create_and_throw_exceptions/obj/Debug/net8.0/create_and_throw_exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/create_and_throw_exceptions/obj/Debug/net8.0/create_and_throw_exceptions.AssemblyInfoInputs.cache
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/create_and_throw_exceptions/obj/Debug/net8.0/create_and_throw_exceptions.AssemblyInfo.cs
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/create_and_throw_exceptions/obj/Debug/net8.0/create_and_throw_exceptions.csproj.CoreCompileInputs.cache
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/create_and_throw_exceptions/obj/Debug/net8.0/create_and_throw_exceptions.sourcelink.json
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/create_and_throw_exceptions/obj/Debug/net8.0/create_and_throw_exceptions.dll
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/create_and_throw_exceptions/obj/Debug/net8.0/refint/create_and_throw_exceptions.dll
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/create_and_throw_exceptions/obj/Debug/net8.0/create_and_throw_exceptions.pdb
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/create_and_throw_exceptions/obj/Debug/net8.0/create_and_throw_exceptions.genruntimeconfig.cache
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/create_and_throw_exceptions/obj/Debug/net8.0/ref/create_and_throw_exceptions.dll
