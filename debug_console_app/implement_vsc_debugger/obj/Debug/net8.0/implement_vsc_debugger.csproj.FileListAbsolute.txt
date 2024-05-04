@@ -1,0 +1,15 @@
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/implement_vsc_debugger/bin/Debug/net8.0/implement_vsc_debugger
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/implement_vsc_debugger/bin/Debug/net8.0/implement_vsc_debugger.deps.json
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/implement_vsc_debugger/bin/Debug/net8.0/implement_vsc_debugger.runtimeconfig.json
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/implement_vsc_debugger/bin/Debug/net8.0/implement_vsc_debugger.dll
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/implement_vsc_debugger/bin/Debug/net8.0/implement_vsc_debugger.pdb
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/implement_vsc_debugger/obj/Debug/net8.0/implement_vsc_debugger.GeneratedMSBuildEditorConfig.editorconfig
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/implement_vsc_debugger/obj/Debug/net8.0/implement_vsc_debugger.AssemblyInfoInputs.cache
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/implement_vsc_debugger/obj/Debug/net8.0/implement_vsc_debugger.AssemblyInfo.cs
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/implement_vsc_debugger/obj/Debug/net8.0/implement_vsc_debugger.csproj.CoreCompileInputs.cache
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/implement_vsc_debugger/obj/Debug/net8.0/implement_vsc_debugger.sourcelink.json
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/implement_vsc_debugger/obj/Debug/net8.0/implement_vsc_debugger.dll
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/implement_vsc_debugger/obj/Debug/net8.0/refint/implement_vsc_debugger.dll
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/implement_vsc_debugger/obj/Debug/net8.0/implement_vsc_debugger.pdb
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/implement_vsc_debugger/obj/Debug/net8.0/implement_vsc_debugger.genruntimeconfig.cache
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/implement_vsc_debugger/obj/Debug/net8.0/ref/implement_vsc_debugger.dll
