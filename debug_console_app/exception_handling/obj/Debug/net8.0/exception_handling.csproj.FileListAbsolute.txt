@@ -1,0 +1,15 @@
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/exception_handling/bin/Debug/net8.0/exception_handling
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/exception_handling/bin/Debug/net8.0/exception_handling.deps.json
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/exception_handling/bin/Debug/net8.0/exception_handling.runtimeconfig.json
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/exception_handling/bin/Debug/net8.0/exception_handling.dll
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/exception_handling/bin/Debug/net8.0/exception_handling.pdb
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/exception_handling/obj/Debug/net8.0/exception_handling.GeneratedMSBuildEditorConfig.editorconfig
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/exception_handling/obj/Debug/net8.0/exception_handling.AssemblyInfoInputs.cache
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/exception_handling/obj/Debug/net8.0/exception_handling.AssemblyInfo.cs
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/exception_handling/obj/Debug/net8.0/exception_handling.csproj.CoreCompileInputs.cache
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/exception_handling/obj/Debug/net8.0/exception_handling.sourcelink.json
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/exception_handling/obj/Debug/net8.0/exception_handling.dll
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/exception_handling/obj/Debug/net8.0/refint/exception_handling.dll
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/exception_handling/obj/Debug/net8.0/exception_handling.pdb
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/exception_handling/obj/Debug/net8.0/exception_handling.genruntimeconfig.cache
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/exception_handling/obj/Debug/net8.0/ref/exception_handling.dll
