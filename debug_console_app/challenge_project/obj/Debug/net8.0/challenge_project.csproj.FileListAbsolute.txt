@@ -1,0 +1,15 @@
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/challenge_project/bin/Debug/net8.0/challenge_project
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/challenge_project/bin/Debug/net8.0/challenge_project.deps.json
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/challenge_project/bin/Debug/net8.0/challenge_project.runtimeconfig.json
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/challenge_project/bin/Debug/net8.0/challenge_project.dll
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/challenge_project/bin/Debug/net8.0/challenge_project.pdb
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/challenge_project/obj/Debug/net8.0/challenge_project.GeneratedMSBuildEditorConfig.editorconfig
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/challenge_project/obj/Debug/net8.0/challenge_project.AssemblyInfoInputs.cache
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/challenge_project/obj/Debug/net8.0/challenge_project.AssemblyInfo.cs
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/challenge_project/obj/Debug/net8.0/challenge_project.csproj.CoreCompileInputs.cache
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/challenge_project/obj/Debug/net8.0/challenge_project.sourcelink.json
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/challenge_project/obj/Debug/net8.0/challenge_project.dll
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/challenge_project/obj/Debug/net8.0/refint/challenge_project.dll
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/challenge_project/obj/Debug/net8.0/challenge_project.pdb
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/challenge_project/obj/Debug/net8.0/challenge_project.genruntimeconfig.cache
+/home/craig/Desktop/c_sharp_fcc/debug_console_app/challenge_project/obj/Debug/net8.0/ref/challenge_project.dll
